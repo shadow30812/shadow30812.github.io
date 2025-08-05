@@ -2,16 +2,16 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A//shadow30812.github.io/)](https://shadow30812.github.io/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/shadow30812/shadow30812.github.io)](https://github.com/shadow30812/shadow30812.github.io/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/shadow30812/shadow30812.github.io)](https://github.com/shadow30812/shadow30812.github.io)
-[![GitHub stars](https://img.shields.io/github/stars/shadow30812/shadow30812.github.io?style=social)](https://github.com/shadow30812/shadow30812.github.io/stargazers)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A//shadow30812.github.io/x/)](https://shadow30812.github.io/x/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/shadow30812/shadow30812.github.io/x)](https://github.com/shadow30812/shadow30812.github.io/x/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/shadow30812/shadow30812.github.io/x)](https://github.com/shadow30812/shadow30812.github.io/x)
+[![GitHub stars](https://img.shields.io/github/stars/shadow30812/shadow30812.github.io/x?style=social)](https://github.com/shadow30812/shadow30812.github.io/x/stargazers)
 
 **🌟 Welcome to my personal portfolio website! 🌟**
 
 *Passionate about programming, space technology, and data analysis*
 
-**[🌐 Visit Portfolio](https://shadow30812.github.io/) | [📧 Contact Me](https://shadow30812.github.io/#contact) | [📱 Connect on LinkedIn](https://www.linkedin.com/in/swastik-kumar-rout/)**
+**[🌐 Visit Portfolio](https://shadow30812.github.io/x/) | [📧 Contact Me](https://shadow30812.github.io/x/#contact) | [📱 Connect on LinkedIn](https://www.linkedin.com/in/swastik-kumar-rout/)**
 
 </div>
 
@@ -147,7 +147,7 @@ Currently pursuing my **BTech in Electrical Engineering** (Expected 2028) with a
 ## 📁 Repository Structure
 
 ```
-shadow30812.github.io/
+shadow30812.github.io/x/
 ├── 📄 index.html          # Main HTML file
 ├── 🎨 style.css           # Styling and responsive design
 ├── ⚡ app.js              # JavaScript functionality
@@ -173,8 +173,8 @@ shadow30812.github.io/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shadow30812/shadow30812.github.io.git
-   cd shadow30812.github.io
+   git clone https://github.com/shadow30812/shadow30812.github.io/x.git
+   cd shadow30812.github.io/x
    ```
 
 2. **Open the project:**
@@ -205,7 +205,7 @@ shadow30812.github.io/
 This portfolio is deployed using **GitHub Pages** and is automatically updated when changes are pushed to the main branch.
 
 ### Deployment URL
-**🔗 Live Site:** [https://shadow30812.github.io/](https://shadow30812.github.io/)
+**🔗 Live Site:** [https://shadow30812.github.io/x/](https://shadow30812.github.io/x/)
 
 ### Deployment Features
 - ✅ **Automatic Deployment** - Updates automatically on git push
@@ -224,7 +224,7 @@ This portfolio is deployed using **GitHub Pages** and is automatically updated w
 
 I'm always interested in discussing new opportunities, collaborations, and innovative projects in the fields of electrical engineering, programming, and space technology.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://shadow30812.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://shadow30812.github.io/x/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-kumar-rout/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shadow30812)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:updow512@gmail.com)
@@ -268,7 +268,7 @@ copies or substantial portions of the Software.
 
 ### ⭐ **If you found this portfolio helpful, please consider giving it a star!** ⭐
 
-**Made with ❤️ by [Swastik Kumar Rout](https://shadow30812.github.io/)**
+**Made with ❤️ by [Swastik Kumar Rout](https://shadow30812.github.io/x/)**
 
 *"Passionate about programming, space technology, and data analysis"*
 
